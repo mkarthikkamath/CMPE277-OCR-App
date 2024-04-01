@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">OCRApp</string>
+    <string name="detected_text">Detected Text:</string>
+    <string name="ocr">OCR Analyze</string>
+    <string name="take_image">Select Image</string>
+    <string name="logo">logo</string>
 </resources>
